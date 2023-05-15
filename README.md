@@ -49,3 +49,31 @@
 * ## Anything that sparked your curiosity, or other interesting revelations?
 
     For this activity, I really have nothing to concern or notice. However, this is a good activity.
+
+# Project Pitch:
+
+* ## Why did you choose this item to include in your portfolio?
+
+    I chose it because it was the brain-storm assignment that allowed me to think about many possible ideas for my project.
+
+* ## What did you learn from doing this activity/assignment? If you learned nothing, what kind of activity/assignment would facilitate learning for you instead? 
+
+    I really learned about how to use  my personal interest to build up a project idea. By brains-storming, I chose the housing market and the personal salary to make a new metric called Affprdability so that I can measure if I am able to afford a house in a specific place.
+
+* ## How might you use these concepts/techniques outside of class (in your research, daily life, job, hobby, etc.)?
+
+    This is a good skill that helps me generating a lot of ideas before any project. Although an idea can be effective or not, it is a start for everything great later on.
+
+# Week 7 Activity 1: Critique by Redesign
+
+* ## Why did you choose this item to include in your portfolio?
+
+    I chose it because I learned how to avoid mistakes by looking at them. Instead of making a mistake, this activity lets me know in advance and analize carefully so that I can understand it.
+
+* ## What did you learn from doing this activity/assignment? If you learned nothing, what kind of activity/assignment would facilitate learning for you instead? 
+
+    I learned that visualizing  data is just not put everything you can into a canvas. I learned that I should filter out the redundant data. Furthermore, visualizations should have proper marks and channels that properly enhance the users' experience and task.
+
+* ## How might you use these concepts/techniques outside of class (in your research, daily life, job, hobby, etc.)?
+
+    I actually can combine this activity in many groupworks that have visualizatin because I can contribute to make it better. Furthermore, with the works and mistakes I learned through out this class, I think I can apply more than just critizing visualization.
